@@ -72,7 +72,7 @@ import (
     "fmt"
     "log"
     "time"
-    "github.com/hibiken/asynq"
+    "github.com/fabmation-gmbh/asynq"
 )
 
 // A list of task types.
@@ -159,7 +159,7 @@ import (
     "log"
     "time"
 
-    "github.com/hibiken/asynq"
+    "github.com/fabmation-gmbh/asynq"
     "your/app/package/tasks"
 )
 
@@ -224,7 +224,7 @@ package main
 import (
     "log"
 
-    "github.com/hibiken/asynq"
+    "github.com/fabmation-gmbh/asynq"
     "your/app/package/tasks"
 )
 

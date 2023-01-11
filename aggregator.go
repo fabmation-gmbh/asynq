@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hibiken/asynq/internal/base"
-	"github.com/hibiken/asynq/internal/log"
+	"github.com/fabmation-gmbh/asynq/internal/base"
+	"github.com/fabmation-gmbh/asynq/internal/log"
 )
 
 // An aggregator is responsible for checking groups and aggregate into one task
